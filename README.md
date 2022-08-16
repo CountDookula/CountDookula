@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CountDookula
-- 👀 I’m interested in Joe Mama
+- 👀 I’m interested in Many Things
 - 🌱 I’m currently learning Kubernetes
-- 💞️ I’m looking to collaborate on well idk hit me up
+- 💞️ I’m looking to collaborate on well idk hit me up with an Idea
 - 📫 How to reach me: Business: pascal.tobler@ergon.ch (Airlock Support Engineer), Private: rasengan374@gmail.com
 
 <!---
